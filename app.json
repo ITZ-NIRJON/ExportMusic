@@ -36,7 +36,7 @@
             "required": false
         },
         "SESSION_NAME": {
-            "description": "fill with the pyrogram String Session",
+            "description": "",
             "required": true
         },
         "SUDO_USERS": {
