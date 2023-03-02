@@ -7,9 +7,9 @@
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/esportxserver",
-    "repository": "https://github.com/blackcatxd0/lacey",
-    "success_url": "https://t.me/esportxworld",
+    "website": "https://t.me/NixaWorld",
+    "repository": "https://github.com/ITZ-NIRJON/ExportMusic",
+    "success_url": "https://t.me/NirjonWorldMF",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
